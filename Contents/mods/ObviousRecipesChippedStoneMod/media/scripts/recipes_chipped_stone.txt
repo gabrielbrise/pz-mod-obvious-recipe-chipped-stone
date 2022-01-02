@@ -3,7 +3,7 @@ module ObviousRecipesChippedStone {
         Base
     }
 
-    recipe Chipped Stone
+    recipe Make Chipped Stone
     {
         Stone,
         keep [Recipe.GetItemTypes.Hammer],
@@ -17,7 +17,7 @@ module ObviousRecipesChippedStone {
         Prop2:Stone,
     }
 
-    recipe Chipped Stone
+    recipe Make Chipped Stone
     {
         Stone=2,
 
