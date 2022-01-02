@@ -1,4 +1,4 @@
-version=1
+version=1.0.1
 id=2704468416
 title=Obvious Recipes - Chipped Stone
 description=Create Chipped Stone in what I think are the obvious ways.
