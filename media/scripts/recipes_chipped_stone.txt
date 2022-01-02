@@ -1,0 +1,32 @@
+module ObviousRecipeChippedStone {
+    imports {
+        Base
+    }
+
+    recipe Chipped Stone
+    {
+        Stone,
+        keep [Recipe.GetItemTypes.Hammer],
+
+        Result:SharpedStone,
+        Sound:PutItemInBag,
+        Time:200.0,
+        Category:Survivalist,
+        AnimNode:Disassemble,
+        Prop1:Source=2,
+        Prop2:Stone,
+    }
+
+    recipe Chipped Stone
+    {
+        Stone=2,
+
+        Result:SharpedStone,
+        Sound:PutItemInBag,
+        Time:400.0,
+        Category:Survivalist,
+        AnimNode:Disassemble,
+        Prop1:Stone,
+        Prop2:Stone,
+    }
+}
