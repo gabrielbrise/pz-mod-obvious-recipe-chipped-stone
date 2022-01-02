@@ -19,4 +19,4 @@ Copy the `obviousrecipechippedstonemod` folder inside `/mods` in your Project Zo
 
 - 2 Stones
 
-![Obvious Recipe - Chipped Stone](obviousrecipechippedstone/poster.png)
+![Obvious Recipe - Chipped Stone](obviousrecipechippedstonemod/poster.png)
