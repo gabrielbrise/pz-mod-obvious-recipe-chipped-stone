@@ -1,4 +1,4 @@
-module ObviousRecipeChippedStone {
+module ObviousRecipesChippedStone {
     imports {
         Base
     }

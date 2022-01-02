@@ -4,7 +4,13 @@ Create Chipped Stone in what I think is the obvious way.
 
 ## Installing the mod:
 
-Copy the `obviousrecipechippedstonemod` folder inside `/mods` in your Project Zomboid installation.
+### Manual:
+
+- Copy the `Contents/mods/ObviousRecipesChippedStoneMod` folder inside `/mods` in your Project Zomboid installation.
+
+### Steam Workshop:
+
+- Subscribe [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2704468416)
 
 ## Recipes:
 
@@ -19,4 +25,4 @@ Copy the `obviousrecipechippedstonemod` folder inside `/mods` in your Project Zo
 
 - 2 Stones
 
-![Obvious Recipe - Chipped Stone](obviousrecipechippedstonemod/poster.png)
+![Obvious Recipe - Chipped Stone](preview.png)
