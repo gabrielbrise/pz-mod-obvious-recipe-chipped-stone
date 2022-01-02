@@ -1,0 +1,10 @@
+version=1
+title=Obvious Recipes - Chipped Stone
+description=Create Chipped Stone in what I think is the obvious way.
+description=Tested in Build 41. It is an extremely simple recipe mod so it should be compatible for a long time.
+description=- 1 Hammer / Stone Hammer / Ball-peen Hammer (keep)
+description=- 1 Stone
+description=OR
+description=2 Stones
+tags=Build 41,Balance,Items,Realistic,Misc,Building
+visibility=public
